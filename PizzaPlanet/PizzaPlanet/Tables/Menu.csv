@@ -1,0 +1,7 @@
+﻿Pizza Name;Ingredients;Price (USD);Dough;Tomato Sauce;Mozzarella cheese;BBQ sauce;Pepperoni;Ham;Pineapple;Onions;Olives;Mushrooms;Sausage;Bacon;Grilled Chicken
+Margherita;tomato sauce, mozzarella cheese;8.99;1;1;1;0;0;0;0;0;0;0;0;0;0
+Pepperoni;tomato sauce, mozzarella cheese, pepperoni;9.99;1;1;1;0;1;0;0;0;0;0;0;0;0
+Hawaiian;tomato sauce, mozzarella cheese, ham, pineapple;10.99;1;1;1;0;0;1;1;0;0;0;0;0;0
+Veggie Delight;tomato sauce, mozzarella cheese, bell peppers, onions, olives, mushrooms;11.99;1;1;1;0;0;0;0;1;1;1;0;0;0
+Meat Lovers;tomato sauce, mozzarella cheese, pepperoni, sausage, ham, bacon;12.99;1;1;1;0;1;1;0;0;0;0;1;1;0
+BBQ Chicken;BBQ sauce, mozzarella cheese, grilled chicken, onions;13.99;1;0;1;1;0;0;0;1;0;0;0;0;1
