@@ -1,0 +1,9 @@
+ml
+- small project 30% 
+	- flourishing case
+	- nice report pdf, notebook 
+	- 13 oct 2024
+- final exam 70%
+	- pen and paper
+	- oct 9 
+	- includes codes and concepts
